@@ -7,4 +7,4 @@ INPUT:
   t, time periods in years
   r, annual rate of interest
 OUTPUT:
-  simple interest = p*t*r
+  simple interest = p*t*r / 100
